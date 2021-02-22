@@ -1,0 +1,4 @@
+﻿  cal_time1.c
+C:\Users\JoSH\Desktop\코딩\공부\C로 쉽게 풀어 쓴 자료구조\1. 자료구조와 알고리즘\1. 자료구조와 알고리즘\cal_time1.c(9,20): warning C4244: '=': 'time_t'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JoSH\Desktop\코딩\공부\C로 쉽게 풀어 쓴 자료구조\1. 자료구조와 알고리즘\1. 자료구조와 알고리즘\cal_time1.c(15,19): warning C4244: '=': 'time_t'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1. 자료구조와 알고리즘.vcxproj -> C:\Users\JoSH\Desktop\코딩\공부\C로 쉽게 풀어 쓴 자료구조\1. 자료구조와 알고리즘\Debug\1. 자료구조와 알고리즘.exe

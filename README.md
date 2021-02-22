@@ -41,10 +41,16 @@ It is the same as part of an integer's operation, except that the result of the 
 Description of cal_time.c and cal_time1.c
 
 In cal_time.c, clock() function calculates the CPU time used by the calling process.
-The clock() function returns 
+The clock() function returns the system time in CLOCKS_PER_SEC unit when called.
+Further details can be found through the comments of the program.
 
+In cal_time1.c, time() function returns the measured time in seconds.
+Further details can be found through the comments of the program.
 
+There are a few precautions.
 
-
+- Performance time cannot be claimed for unexperimented inputs.
+- The results may vary depending on the software environment used.
+- To compare algorithms through this method, measurement time must be analyzed using the same hardware.
 
 ###

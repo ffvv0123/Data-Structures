@@ -1,3 +1,50 @@
 # Data-Structures
-
 # Documents for studying data structures
+
+### 01. Data Structures and Algorithms
+
+# A Data Scrutures is a collection of data values, the realationships among them, and the functions of operations that can be applied to the data.
+
+### 
+Description of cal_scores.c
+
+A program consists of data structures and algorithms.
+
+In this program, data structure is "int scores[MAX_ELEMENT];", algorithm is "largest = scores[0];"
+This simple program shows that difference between data structures and algorithms.
+###
+
+# A data type is defined as a set of operations between an object and it.
+
+# Abstract Data Types(ADT) represent abstract and mathematical model for data types.
+
+# In ADT, what data or operations are defined, but how data or operations will be implemented on computers is not defined.
+
+# Users can only use the operations provided by ADT.
+# Users should know how to use the operations provided by ADT.
+# Users cannot access data inside the ADT.
+# Users can use ADT even if they do not know how it is implemented.
+# Users can still use ADT in the same way if the interface does not change if another person changes the implementation of ADT.
+
+###
+Description of ADT 1-1 추상 자료형 NatNumber.c
+
+This program is example of express natural numbers.
+Unlike integers, natural numbers are valid example because its are not provided by default in computers.
+
+It is the same as part of an integer's operation, except that the result of the operation is zero or natural number.
+###
+
+# Analyze algorithm performance
+
+###
+Description of cal_time.c and cal_time1.c
+
+In cal_time.c, clock() function calculates the CPU time used by the calling process.
+The clock() function returns 
+
+
+
+
+
+###

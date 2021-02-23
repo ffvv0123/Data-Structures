@@ -39,8 +39,8 @@ It is the same as part of an integer's operation, except that the result of the 
 
 # Analyze algorithm performance
 
+# Description of cal_time.c and cal_time1.c
 
-Description of cal_time.c and cal_time1.c
 ###
 In cal_time.c, clock() function calculates the CPU time used by the calling process.
 The clock() function returns the system time in CLOCKS_PER_SEC unit when called.

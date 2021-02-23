@@ -29,7 +29,7 @@ This simple program shows that difference between data structures and algorithms
 
 
 ###
-# Description of ADT 1-1 추상 자료형 NatNumber.c
+### Description of ADT 1-1 추상 자료형 NatNumber.c
 
 This program is example of express natural numbers.
 Unlike integers, natural numbers are valid example because its are not provided by default in computers.

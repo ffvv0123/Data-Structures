@@ -3,7 +3,7 @@
 
 ### 01. Data Structures and Algorithms
 
-# A Data Scrutures is a collection of data values, the realationships among them, and the functions of operations that can be applied to the data.
+###### A Data Scrutures is a collection of data values, the realationships among them, and the functions of operations that can be applied to the data.
 
 ### 
 Description of cal_scores.c

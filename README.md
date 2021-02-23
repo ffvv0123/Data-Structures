@@ -1,5 +1,5 @@
 # Data-Structures
-# Documents for studying data structures
+## Documents for studying data structures
 
 ### 01. Data Structures and Algorithms
 

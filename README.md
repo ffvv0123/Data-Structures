@@ -29,14 +29,14 @@ In ADT, what data or operations are defined, but how data or operations will be 
 - Users can use ADT even if they do not know how it is implemented.
 - Users can still use ADT in the same way if the interface does not change if another person changes the implementation of ADT.
 
-###
+######
 ### Description of ADT 1-1 추상 자료형 NatNumber.c
 
 This program is example of express natural numbers.
 Unlike integers, natural numbers are valid example because its are not provided by default in computers.
 
 It is the same as part of an integer's operation, except that the result of the operation is zero or natural number.
-###
+######
 
 # Analyze algorithm performance
 

@@ -21,11 +21,11 @@ This simple program shows that difference between data structures and algorithms
 # In ADT, what data or operations are defined, but how data or operations will be implemented on computers is not defined.
 
 ######
-Users can only use the operations provided by ADT.
-Users should know how to use the operations provided by ADT.
-Users cannot access data inside the ADT.
-Users can use ADT even if they do not know how it is implemented.
-Users can still use ADT in the same way if the interface does not change if another person changes the implementation of ADT.
+- Users can only use the operations provided by ADT.
+- Users should know how to use the operations provided by ADT.
+- Users cannot access data inside the ADT.
+- Users can use ADT even if they do not know how it is implemented.
+- Users can still use ADT in the same way if the interface does not change if another person changes the implementation of ADT.
 
 ######
 ###

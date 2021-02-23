@@ -14,11 +14,11 @@ In this program, data structure is "int scores[MAX_ELEMENT];", algorithm is "lar
 This simple program shows that difference between data structures and algorithms.
 ###
 
-# A data type is defined as a set of operations between an object and it.
+### A data type is defined as a set of operations between an object and it.
 
-# Abstract Data Types(ADT) represent abstract and mathematical model for data types.
+### Abstract Data Types(ADT) represent abstract and mathematical model for data types.
 
-# In ADT, what data or operations are defined, but how data or operations will be implemented on computers is not defined.
+### In ADT, what data or operations are defined, but how data or operations will be implemented on computers is not defined.
 
 ###
 - Users can only use the operations provided by ADT.

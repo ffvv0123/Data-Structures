@@ -7,7 +7,7 @@
 
 ### 
 # Description of cal_scores.c
-
+###
 A program consists of data structures and algorithms.
 
 In this program, data structure is "int scores[MAX_ELEMENT];", algorithm is "largest = scores[0];"

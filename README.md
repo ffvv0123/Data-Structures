@@ -27,7 +27,6 @@ This simple program shows that difference between data structures and algorithms
 - Users can use ADT even if they do not know how it is implemented.
 - Users can still use ADT in the same way if the interface does not change if another person changes the implementation of ADT.
 
-
 ###
 ### Description of ADT 1-1 추상 자료형 NatNumber.c
 

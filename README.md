@@ -71,4 +71,8 @@ To solve the above problem, we use the concept of a time complexity function.
 
 ###
 
-# Time Complexity
+# Time Complexity Function
+
+###
+Time complexity does not represent the absolute performance time of the algorithm, but rather how many operations are performed.
+The number of operations performed is usually determined by the input value n. Since n is a variable value, it can be represented as a function, which is called the time complexity function T(n).

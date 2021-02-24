@@ -6,7 +6,8 @@
 # System Life Cycle
 ###
 1) Requirements
-###### asdf
+###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output.
+We must develop rigorous input and output descriptions that include all cases.
 
 2) Analysis
 
@@ -25,9 +26,9 @@ The algorithm meets the following conditions
 
 - Input: There must be at least 0 inputs.
 - Output: There must be at least 1 outputs.
-- Obviousness: The meaning of each instruction should be clear and unambiguous.
+- Definiteness: The meaning of each instruction should be clear and unambiguous.
 - Finiteness: It must be terminated after a limited number of steps.
-- Validity: Each instruction must be a piece of paper, a pencil, or a computer-enabled operation.
+- Effectiveness: Each instruction must be a piece of paper, a pencil, or a computer-enabled operation.
 
 ###
 

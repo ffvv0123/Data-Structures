@@ -67,6 +67,8 @@ There are a few precautions.
 - The results may vary depending on the software environment used.
 - To compare algorithms through this method, measurement time must be analyzed using the same hardware.
 
+To solve the above problem, we use the concept of a time complexity function.
+
 ###
 
 

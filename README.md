@@ -9,20 +9,16 @@
 ###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output. We must develop rigorous input and output descriptions that include all cases.
 
 ### 2. Analysis
-######
+###### We begin to break the problem down into manageable pieces. There are two  approaches to analysis: bottom up and top down.
+###### - bottom up
 
-######
 ### 3. Design
 ######
 
-######
 ### 4. Refinement and coding
 ######
 
-######
 ### 5. Vertification
-######
-
 ######
 
 ### 01. Data Structures and Algorithms

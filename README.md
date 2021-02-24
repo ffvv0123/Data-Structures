@@ -11,6 +11,7 @@
 ### 2. Analysis
 ###### We begin to break the problem down into manageable pieces. There are two  approaches to analysis: bottom up and top down.
 ###### - bottom up
+###### - top down
 
 ### 3. Design
 ######

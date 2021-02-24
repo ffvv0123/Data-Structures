@@ -85,3 +85,12 @@ The number of operations performed is usually determined by the input value n. S
 - Big Theta Notation
 
 See Time Complexity Functions.pdf for a description of the notation above.
+
+# The efficiency of the algorithm
+
+### There are three cases.
+- worst case: The algorithm takes the longest time to perform among the data sets.
+- best case: The algorithm takes the least time to perform among the data sets.
+- average case: The average performance time considering all inputs from the algorithm and the probability that each input occurs.
+
+In most cases, we usually use worst case. This is because average case is hard to get, and best case is often meaningless.

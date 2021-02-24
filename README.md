@@ -5,6 +5,17 @@
 
 ###### A Data Scrutures is a collection of data values, the realationships among them, and the functions of operations that can be applied to the data.
 
+###
+The algorithm meets the following conditions
+
+- Input: There must be at least 0 inputs.
+- Output: There must be at least 1 outputs.
+- Obviousness: The meaning of each instruction should be clear and unambiguous.
+- Finiteness: It must be terminated after a limited number of steps.
+- Validity: Each instruction must be a piece of paper, a pencil, or a computer-enabled operation.
+
+###
+
 ### 
 # Description of cal_scores.c
 ######

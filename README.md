@@ -6,8 +6,7 @@
 # System Life Cycle
 ###
 1) Requirements
-###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output.
-###### We must develop rigorous input and output descriptions that include all cases.
+###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output. We must develop rigorous input and output descriptions that include all cases.
 2) Analysis
 ######
 

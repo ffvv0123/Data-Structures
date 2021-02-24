@@ -4,7 +4,12 @@
 ### 00. Basic Concepts
 
 # System Life Cycle
-
+###
+1) Requirements
+2) Analysis
+3) Design
+4) Refinement and coding
+5) Vertification
 
 ### 01. Data Structures and Algorithms
 

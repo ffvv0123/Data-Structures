@@ -5,21 +5,21 @@
 
 # System Life Cycle
 ###
-1) Requirements
+1. Requirements
 ###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output. We must develop rigorous input and output descriptions that include all cases.
-2) Analysis
+2. Analysis
 ######
 
 ######
-3) Design
+3. Design
 ######
 
 ######
-4) Refinement and coding
+4. Refinement and coding
 ######
 
 ######
-5) Vertification
+5. Vertification
 ######
 
 ######

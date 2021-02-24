@@ -8,14 +8,23 @@
 1) Requirements
 ###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output.
 We must develop rigorous input and output descriptions that include all cases.
-
+######
 2) Analysis
+######
 
+######
 3) Design
+######
 
+######
 4) Refinement and coding
+######
 
+######
 5) Vertification
+######
+
+######
 
 ### 01. Data Structures and Algorithms
 

@@ -25,13 +25,14 @@
 ###### - Testing: Requrires the working code and sets of test data.
 
 # Pointers and dynamic memory allocation
-### The actual value of a pointer type is an address of memory. There are two most important operators used with the pointer: & and *.
+### 
+The actual value of a pointer type is an address of memory. There are two most important operators used with the pointer: & and *.
 
 ###### - & the address operator
 ###### - * the dereferencing (or indirection) operator
 
-### The size of a pointer can be different on different computers. The null pointer points to no object or function. Typically the null pointer is represented by the integer 0. The C macro NULL is defined to be this constant.
-
+The size of a pointer can be different on different computers. The null pointer points to no object or function. Typically the null pointer is represented by the integer 0. The C macro NULL is defined to be this constant.
+###
 
 
 ### 01. Data Structures and Algorithms

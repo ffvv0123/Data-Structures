@@ -1,0 +1,6 @@
+﻿  Program 1-1.c
+C:\Users\JoSH\Desktop\코딩\공부\Fundamanetals of Data Structures in C\Project1\Project1\Program 1-1.c(7,19): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\JoSH\Desktop\코딩\공부\Fundamanetals of Data Structures in C\Project1\Project1\Program 1-1.c(15,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\JoSH\Desktop\코딩\공부\Fundamanetals of Data Structures in C\Project1\Project1\Program 1-1.c(4,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\JoSH\Desktop\코딩\공부\Fundamanetals of Data Structures in C\Project1\Project1\Program 1-1.c(5,9): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\JoSH\Desktop\코딩\공부\Fundamanetals of Data Structures in C\Project1\Debug\Project1.exe

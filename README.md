@@ -10,8 +10,8 @@
 
 ### 2. Analysis
 ###### We begin to break the problem down into manageable pieces. There are two  approaches to analysis: bottom up and top down.
-###### - bottom up: 
-###### - top down: 
+###### - bottom up: How to find the answer by calling a small question after visiting the biggest question
+###### - top down: How to find the answers to the smallest questions and the answers to the whole question
 
 ### 3. Design
 ######

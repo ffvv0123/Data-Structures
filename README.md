@@ -9,18 +9,20 @@
 ###### Requirements describe the information that we, the programmers, are given input and the results that we must produce output. We must develop rigorous input and output descriptions that include all cases.
 
 ### 2. Analysis
-###### We begin to break the problem down into manageable pieces. There are two  approaches to analysis: bottom up and top down.
+###### We begin to break the problem down into manageable pieces. There are two  approaches to analysis: bottom up and top down. Several alternate solutions to the programming problem are developed and compared during this phase.
 ###### - bottom up: How to find the answer by calling a small question after visiting the biggest question
 ###### - top down: How to find the answers to the smallest questions and the answers to the whole question
 
 ### 3. Design
-######
+###### This phase continues the work done in the analysis phase. The desinger approaches the system from the perspectives of both the data objects that the program needs and the operations performed on them. The first perspective leads to the creation of abstract data types, while the second requires the specification of algorithms and a consideration of algorithm design strategies.
 
 ### 4. Refinement and coding
-######
+###### We choose representations for our data objects and write algorithms for each operation on them.
 
 ### 5. Vertification
-######
+###### This phase consists of developing correctness proofs for the program, testing the program with a variety of input data, and removing errors.
+###### - Correctness proofs: Programs can be proven correct using the same techniques that abound in mathematics.
+###### - Testing: Requrires the working code and sets of test data.
 
 ### 01. Data Structures and Algorithms
 

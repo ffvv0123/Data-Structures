@@ -1,5 +1,5 @@
 # Data-Structures
--------------------------------------
+
 ### 00. Basic Concepts
 
 # System Life Cycle
@@ -35,7 +35,16 @@ The size of a pointer can be different on different computers. The null pointer 
 ###
 ### Dynamic Memory Allocation
 ###
-When program you may not know how much space you will need, nor do tou wish to allocate some very large area that may never be required. To solove this problem C provides a mechanism, called a *heap*, for 
+When program you may not know how much space you will need, nor do tou wish to allocate some very large area that may never be required. To solove this problem C provides a mechanism, called a *heap*, for allocating storage at run-time.
+
+- malloc: Function used when new memory space is needed.
+- free: Function used when no longer need an area of memory
+
+Whenever you use malloc function, next you request the amount of memory you need. If memory is available, a pointer to the start of an area of memory of the required size is returned. Else, the pointer NULL is returned.
+
+Whenever you use free function, and return the area of memory to the system.
+
+## Once an area of memory is freed, it is improper to use it.
 
 ###
 

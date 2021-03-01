@@ -34,7 +34,7 @@ The actual value of a pointer type is an address of memory. There are two most i
 
 The size of a pointer can be different on different computers. The null pointer points to no object or function. Typically the null pointer is represented by the integer 0. The C macro NULL is defined to be this constant.
 ###
-
+### Dynamic Memory Allocation
 
 
 ### 01. Data Structures and Algorithms

@@ -1,6 +1,5 @@
 # Data-Structures
-#### Documents for studying data structures
-
+-------------------------------------
 ### 00. Basic Concepts
 
 # System Life Cycle

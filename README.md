@@ -59,9 +59,9 @@ The notation (int*)and (double*) are type cast expressions, which may be omitted
 When programming in C, it is a wise practice to set all pointers to NULL when they are not actually pointing to an object. Another wise programming tactic is to use explicit type casts when converting between pointer types. For example: 
 ```
 pi = malloc(sizeof(int));
-  /*assign to pi a pointer to int*/
+  /* assign to pi a pointer to int */
 pd = (double *) pi;
-  /*casts an int pointer to a double pointer*/
+  /* casts an int pointer to a double pointer */
 ```
 ###
 

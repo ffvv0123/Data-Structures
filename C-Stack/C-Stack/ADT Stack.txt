@@ -1,0 +1,27 @@
+- Object: Finity Linear List which has more than 0 elements.
+- Operation: 
+	create(size) ::= create empty stack which maximum size is "size"
+	
+	is_full(s) ::=
+		if(number of stack's element == size) return TRUE;
+		else return FALSE;
+
+	is_empty(s) ::= 
+		if(number of stack's element == 0) return TRUE;
+		else return FALSE;
+
+	push(s, item) ::=
+		if( is_full(s) ) return ERROR_STACKFULL;
+		else add the item to top of the stack
+
+	pop(s) ::=
+		if( is_empty(s) ) return ERROR_STACKEMPTY;
+		else removes and returns the top element of the stack
+
+	peek(s) ::=
+		if( is_empty(s) ) return ERROR_STACKEMPTY;
+		else returns the top element of the stack without removing it
+
+- Implement way
+	: Using array + dynamic memory allocation
+	: Using Linked List

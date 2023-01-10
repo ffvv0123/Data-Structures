@@ -1,0 +1,32 @@
+- Object: Linear List which has more than 0 elements.
+
+- Operation: 
+	create(max_size) ::=
+		create empty queue which size is max_size
+
+	init(q) ::=
+		Initiate queue
+
+	is_empty(q) ::=
+		if(size == 0) return TRUE;
+		else return FALSE;
+
+	is_full(q) ::=
+		if(size == max_size) return TRUE;
+		else return FALSE;
+
+	enqueue(q, e) ::=
+		if( is_full(q) ) queue_full error;
+		else add e to the end of q
+
+	dequeue(q) ::=
+		if( is_empty(q) ) queue_empty error;
+		else returns and erases the e at the beginning of q
+
+	peek(q) ::=
+		if( is_empty(q) ) queue_empty error;
+		else returns the e at the beginning of q
+
+- Implement way
+	: Using Array[Linear, Circular] + Dynamic Memory Allocation
+	: Linked List
